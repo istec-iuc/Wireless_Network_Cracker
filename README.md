@@ -17,15 +17,21 @@
 
 ### Geliştiricileri
 
-**Binnaz Demirçeviren ** 
+**Binnaz Demirçeviren **  
   Github: https://github.com/binnazdemirceviren
+  
   Linkedin: https://www.linkedin.com/in/binnaz-demirceviren/
+  
 
 **Merve Nur Teke :** 
   Github: https://github.com/Merveeenur
+  
   Linkedin: https://www.linkedin.com/in/mervenurteke/
+  
+  
 **İsmail Can Tosun :** 
   Github: https://github.com/Cantsnn 
+  
   Linkedin: https://www.linkedin.com/in/ismailcantosun/
 
 
