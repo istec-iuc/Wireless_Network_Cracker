@@ -18,7 +18,9 @@
 ### Geliştiricileri
 
 **Binnaz Demirçeviren :** https://github.com/binnazdemirceviren
+
 **Merve Nur Teke :** https://github.com/Merveeenur
+
 **İsmail Can Tosun :** https://github.com/Cantsnn 
 
 
