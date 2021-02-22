@@ -1,6 +1,6 @@
 # WirelessCracker
   
-  Wireless Cracker ile Deauthentication saldırısı kolay ve otonom bir şekilde gerçekleştirilir. Wireless Cracker aircrack-ng ailesindeki tooların(airmon-ng, airodump-ng, aireplay-ng, aircrack-ng) otonom bir şekilde kullanılmasını sağlamaktadır. 
+  Wireless Cracker ile Deauthentication saldırısı kolay ve otonom bir şekilde gerçekleştirilir. Wireless Cracker aircrack-ng ailesindeki toolların(airmon-ng, airodump-ng, aireplay-ng, aircrack-ng) otonom bir şekilde kullanılmasını sağlamaktadır. 
 
 
 ## Adımları
