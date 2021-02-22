@@ -15,6 +15,11 @@
   * Parolaları txt'ye yazdırır
   * Monitor modu durdurur.
 
+## Nasıl Çalışır?
+
+      sudo python3 networkcracker.py
+
+
 ### Geliştiricileri
 
 **Binnaz Demirçeviren :** 
