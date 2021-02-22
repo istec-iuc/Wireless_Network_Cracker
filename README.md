@@ -17,7 +17,7 @@
 
 ### Geliştiricileri
 
-**Binnaz Demirçeviren **  
+**Binnaz Demirçeviren :** 
   Github: https://github.com/binnazdemirceviren
   
   Linkedin: https://www.linkedin.com/in/binnaz-demirceviren/
