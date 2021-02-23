@@ -17,6 +17,8 @@
 
 ## Nasıl Çalışır?
 
+      git clone https://github.com/istec-iuc/Wireless_Network_Cracker.git
+      cd Wireles_Network_Cracker
       sudo python3 networkcracker.py
 
 
