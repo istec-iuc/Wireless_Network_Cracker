@@ -1,6 +1,6 @@
-# WirelessCracker
+# Automatic Wifi Cracker
   
-  Wireless Cracker ile Deauthentication saldırısı kolay ve otonom bir şekilde gerçekleştirilir. Wireless Cracker aircrack-ng ailesindeki toolların(airmon-ng, airodump-ng, aireplay-ng, aircrack-ng) otomatik bir şekilde kullanılmasını sağlamaktadır. 
+  Automatic Wifi Cracker ile Deauthentication saldırısı kolay ve otonom bir şekilde gerçekleştirilir. Wireless Cracker aircrack-ng ailesindeki toolların(airmon-ng, airodump-ng, aireplay-ng, aircrack-ng) otomatik bir şekilde kullanılmasını sağlamaktadır. 
 
 
 ## Adımları
@@ -19,7 +19,7 @@
 
       git clone https://github.com/istec-iuc/Wireless_Network_Cracker.git
       cd Wireles_Network_Cracker
-      sudo python3 networkcracker.py
+      sudo python3 networkCracker.py
 
 
 ### Geliştiricileri
